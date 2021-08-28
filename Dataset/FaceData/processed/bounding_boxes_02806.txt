@@ -1,0 +1,4 @@
+Dataset/FaceData/processed\6107db3e0026e02602bdd15a\image18.png 191 354 651 976
+Dataset/FaceData/processed\6107db3e0026e02602bdd15a\image13.png 325 409 743 915
+Dataset/FaceData/processed\6107db3e0026e02602bdd15a\image2.png 131 470 662 1098
+Dataset/FaceData/processed\6107db3e0026e02602bdd15a\image7.png 223 451 621 938

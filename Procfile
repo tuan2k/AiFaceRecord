@@ -1,0 +1,1 @@
+web: gunicorn face_rec_flask:app --timeout 1200

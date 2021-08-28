@@ -1,0 +1,24 @@
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image15.png 1236 832 1860 1692
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image16.png 1243 918 1856 1729
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image11.png 1112 1113 1675 1886
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image4.png 1162 726 1813 1613
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image5.png 1196 887 1846 1770
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image12.png 1021 1089 1608 1913
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image7.png 1111 678 1684 1447
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image6.png 1097 652 1673 1412
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image2.png 726 714 1369 1588
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image18.png 1259 996 1839 1767
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image3.png 786 734 1423 1609
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image17.png 1052 685 1655 1515
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image8.png 1097 652 1673 1412
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image0.png 789 269 1457 1181
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image13.png 1171 645 1783 1488
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image1.png 663 329 1333 1235
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image9.png 1100 975 1677 1735
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image10.png 1258 735 1838 1513
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image19.png 1021 1089 1608 1913
+Dataset/FaceData/processed\6107e0fb0026e02602bdd746\image14.png 1243 918 1856 1729
+Dataset/FaceData/processed\6107f10f0026e02602bde295\image10.png
+Dataset/FaceData/processed\6107f10f0026e02602bde295\image11.png
+Dataset/FaceData/processed\6107f10f0026e02602bde295\image15.png
+Dataset/FaceData/processed\6107f10f0026e02602bde295\image16.png
